@@ -24,4 +24,4 @@ This project implements a distributed auctioning system designed to enhance depe
    java Client
    ```
 
-Year 3 Distributed Systems coursework
+~ Year 3 Distributed Systems coursework
