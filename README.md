@@ -23,4 +23,5 @@ This project implements a distributed auctioning system designed to enhance depe
    ```bash
    java Client
    ```
-   
+
+Year 3 Distributed Systems coursework
